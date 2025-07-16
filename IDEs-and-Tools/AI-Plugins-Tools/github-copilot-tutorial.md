@@ -1,6 +1,6 @@
 # GitHub Copilot 使用教程 (2025年最新版)
 
-**语言**: [中文](#) | [English](github-copilot-tutorial-en.md)
+<div align="center">中文 | [English](github-copilot-tutorial-en.md)</div>
 
 ## 目录
 - [简介](#简介)

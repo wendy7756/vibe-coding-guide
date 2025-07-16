@@ -1,6 +1,6 @@
 # PyCharm + AI Integration Guide
 
-English | [中文](./pycharm-ai-guide.md)
+<div align="center">English | [中文](./pycharm-ai-guide.md)</div>
 
 ## Overview
 

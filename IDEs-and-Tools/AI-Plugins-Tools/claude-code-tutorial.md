@@ -1,6 +1,6 @@
 # Claude Code 使用教程 (2025年最新版)
 
-**语言**: [中文](#) | [English](claude-code-tutorial-en.md)
+<div align="center">中文 | [English](claude-code-tutorial-en.md)</div>
 
 ## 目录
 - [简介](#简介)

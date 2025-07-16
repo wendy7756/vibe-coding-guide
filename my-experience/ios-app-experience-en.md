@@ -1,12 +1,12 @@
 # My iOS App Development Journey: 6 Apps in 60 Days with Zero Coding Background
 
-English | [中文](./ios-app-experience.md)
+<div align="center">English | [中文](./ios-app-experience.md)</div>
 
 ## Introduction
 
 With absolutely no programming background, I successfully developed and launched 6 iOS applications on the App Store in just 60 days using ChatGPT and Xcode. This article shares my detailed development process, challenges encountered, and lessons learned, hoping to provide valuable insights for other non-technical founders and creators.
 
-![My 6 Apps](./6apps.jpeg)
+<img src="./6apps.jpeg" alt="My 6 Apps" width="70%">
 
 ## Development Environment and Tools
 

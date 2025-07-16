@@ -1,6 +1,6 @@
 # 自然语言编程完整指南
 
-[English](./NLP-guide-en.md) | 中文
+<div align="center">中文 | [English](./NLP-guide-en.md)</div>
 
 ## 概述
 

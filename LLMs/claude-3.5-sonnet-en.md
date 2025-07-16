@@ -1,6 +1,6 @@
 # Claude 3.5 Sonnet Complete Guide
 
-English | [中文](./claude-3.5-sonnet.md)
+<div align="center">English | [中文](./claude-3.5-sonnet.md)</div>
 
 ## Table of Contents
 1. [Model Overview](#model-overview)

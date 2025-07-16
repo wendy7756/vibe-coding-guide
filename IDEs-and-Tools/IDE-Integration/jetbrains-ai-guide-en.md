@@ -1,6 +1,6 @@
 # JetBrains IDEs + AI Integration Guide
 
-English | [中文](./jetbrains-ai-guide.md)
+<div align="center">English | [中文](./jetbrains-ai-guide.md)</div>
 
 ## Overview
 

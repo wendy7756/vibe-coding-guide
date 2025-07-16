@@ -1,6 +1,6 @@
 # Traditional IDEs + AI 完整指南
 
-[English](./abstract_EN.md) | 中文
+<div align="center">中文 | [English](./abstract_EN.md)</div>
 
 本目录包含5个主流IDE结合AI工具的详细使用指南，每个IDE都有中英文版本可供选择。
 

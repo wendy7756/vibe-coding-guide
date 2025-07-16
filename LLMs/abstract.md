@@ -1,6 +1,6 @@
 # 大语言模型指南
 
-English | [中文](./abstract.md)
+<div align="center">中文 | [English](./abstract_EN.md)</div>
 
 本目录包含5个最新大语言模型的详细介绍和教程，每个模型都有中英文版本可供选择。
 

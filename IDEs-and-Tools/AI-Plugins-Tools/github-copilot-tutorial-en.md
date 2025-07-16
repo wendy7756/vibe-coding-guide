@@ -1,6 +1,6 @@
 # GitHub Copilot Tutorial (2025 Latest Version)
 
-**Language**: [English](#) | [中文](github-copilot-tutorial.md)
+<div align="center">English | [中文](github-copilot-tutorial.md)</div>
 
 ## Table of Contents
 - [Introduction](#introduction)

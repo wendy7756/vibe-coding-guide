@@ -1,6 +1,6 @@
 # 我的Web开发之旅：48小时，2个网站，0成本
 
-[English](./web-experience-en.md) | 中文
+<div align="center">中文 | [English](./web-experience-en.md)</div>
 
 ## 前言
 
@@ -16,7 +16,7 @@
 - **开发时间**：24小时
 - **技术栈**：Astro + Markdown + Vercel
 
-![globaltravel页面](./website01.png)
+<img src="./website01.png" alt="globaltravel页面" width="70%">
 
 ### 项目二：FollowNet
 - **类型**：社交媒体竞争对手分析工具
@@ -25,7 +25,7 @@
 - **开发时间**：48小时
 - **技术栈**：Next.js + Python + Vercel + 后端部署
 
-![FollowNet界面](./website02.png)
+<img src="./website02.png" alt="FollowNet界面" width="70%">
 
 ## 为什么选择Cursor？
 

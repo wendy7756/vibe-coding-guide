@@ -1,6 +1,6 @@
 # OpenAI o3 Complete Guide
 
-English | [中文](./o3.md)
+<div align="center">English | [中文](./o3.md)</div>
 
 ## Table of Contents
 1. [Model Overview](#model-overview)

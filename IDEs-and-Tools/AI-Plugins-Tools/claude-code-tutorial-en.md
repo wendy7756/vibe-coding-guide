@@ -1,6 +1,6 @@
 # Claude Code Tutorial (2025 Latest Version)
 
-**Language**: [English](#) | [中文](claude-code-tutorial.md)
+<div align="center">English | [中文](claude-code-tutorial.md)</div>
 
 ## Table of Contents
 - [Introduction](#introduction)

@@ -1,6 +1,6 @@
 # My Web Development Journey: 2 Websites in 48 Hours with $0 Budget
 
-English | [中文](./web-experience.md)
+<div align="center">English | [中文](./web-experience.md)</div>
 
 ## Introduction
 
@@ -16,7 +16,7 @@ With absolutely no programming background, I successfully developed and launched
 - **Development Time**: 24 hours
 - **Tech Stack**: Astro + Markdown + Vercel
 
-![Travelguide Interface](./website01.png)
+<img src="./website01.png" alt="Travelguide Interface" width="70%">
 
 ### Project 2: FollowNet
 - **Type**: Social media competitor analysis tool
@@ -25,7 +25,7 @@ With absolutely no programming background, I successfully developed and launched
 - **Development Time**: 24 hours
 - **Tech Stack**: Next.js + Python + Vercel + Backend Deployment
 
-![FollowNet Interface](./website02.png)
+<img src="./website02.png" alt="FollowNet Interface" width="70%">
 
 ## Why Choose Cursor?
 

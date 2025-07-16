@@ -1,6 +1,6 @@
 # Large Language Models Guide
 
-English | [中文](./abstract.md)
+<div align="center">English | [中文](./abstract.md)</div>
 
 This directory contains detailed guides and tutorials for 5 cutting-edge large language models, each available in both Chinese and English versions.
 

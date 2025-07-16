@@ -1,6 +1,6 @@
 # VS Code + AI Complete Guide
 
-English | [中文](./vscode-ai-guide.md)
+<div align="center">English | [中文](./vscode-ai-guide.md)</div>
 
 ## Table of Contents
 1. [Overview](#overview)

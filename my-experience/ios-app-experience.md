@@ -1,12 +1,12 @@
 # 我的iOS App开发之旅：60天，6个App，零代码基础
 
-[English](./ios-app-experience-en.md) | 中文
+<div align="center">中文 | [English](./ios-app-experience-en.md)</div>
 
 ## 前言
 
 我在完全0代码基础的情况下，借助 ChatGPT 和 Xcode 在短短60天内成功开发并上架了6个iOS应用。这篇文章将详细分享我的开发流程、遇到的挑战以及总结的经验，希望能为其他没有编程背景的朋友带来一些启发。
 
-![我的6个App](./6apps.jpeg)
+<img src="./6apps.jpeg" alt="我的6个App" width="70%">
 
 ## 开发环境和工具
 
