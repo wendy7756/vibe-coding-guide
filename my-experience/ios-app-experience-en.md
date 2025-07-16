@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Miraculous 60-Day Journey: Building 6 iOS Apps
+# How I Built 6 iOS Apps
 
 <a href="./ios-app-experience.md">中文</a> | English
 
