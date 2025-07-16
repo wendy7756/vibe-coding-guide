@@ -6,7 +6,7 @@
 
 </div>
 
-As a product manager with zero coding background, I successfully developed **6 iOS apps** and got them live on the App Store in the past three months with the help of ChatGPT and Cursor, and also launched **2 complete website projects**. Both website codes are open sourced: Global Travel Guide platform [Global Travel Guide](https://github.com/wendy7756/globaltravelguide), and social media follower analysis tool [FollowNet](https://github.com/wendy7756/FollowNet).
+As a product manager with zero coding background, I successfully developed **6 iOS apps** and got them live on the App Store in the past three months with the help of ChatGPT and Cursor, and also launched **2 complete website projects**. Both website codes are open sourced: Global Travel Guide platform [Global Travel Guide](https://github.com/wendy7756/globaltravelguide), and target audience analysis tool [FollowNet](https://github.com/wendy7756/FollowNet).
 
 I still don't understand programming today, but AI wrote all the code for me. With AI, anyone can become an independent developer. Having personally experienced the power of AI programming, I created this open source project **Vibe Coding Guide** to help everyone with ideas create their own products using AI, ensuring technology is no longer a barrier to realizing creativity.
 
@@ -595,12 +595,6 @@ We welcome contributions to this guide! Please follow these steps:
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-## Contact Us
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/vibe-coding-guide/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/vibe-coding-guide/discussions)
-- **Email**: vibe-coding@example.com
 
 ---
 
