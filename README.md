@@ -594,12 +594,6 @@ AI: [添加键盘事件监听器]
 
 本项目采用 Apache License 2.0 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
 
-## 联系我们
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/vibe-coding-guide/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/vibe-coding-guide/discussions)
-- **Email**: wendy7756@outlook.com
-
 ---
 
 *让编程成为一种美的享受。*
