@@ -1,6 +1,8 @@
 # Vibe Coding Guide | 氛围编程指南
 
-<div align="center">中文 | [English](README_EN.md)</div>
+<div align="center">
+中文 | [English](README_EN.md)
+</div>
 
 作为一名零代码基础的产品经理，我在过去三个月借助 ChatGPT 和 Cursor 成功开发了 **6个ios APP** 并上架 App Store，还上线了 **2个完整的网站项目**, 网站代码均已开源：全球旅游攻略平台[Global Travel Guide](https://github.com/wendy7756/globaltravelguide)，社媒粉丝分析工具[FollowNet](https://github.com/wendy7756/FollowNet)。
 
