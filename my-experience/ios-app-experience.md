@@ -1,6 +1,6 @@
 <div align="center">
 
-# 60天开发6个iOS APP的奇迹之旅
+# 我的iOS APP开发之旅
 
 中文 | <a href="./ios-app-experience-en.md">English</a>
 
