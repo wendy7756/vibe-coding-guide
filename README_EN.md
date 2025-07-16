@@ -10,7 +10,9 @@ As a product manager with zero coding background, I successfully developed **6 i
 
 I still don't understand programming today, but AI wrote all the code for me. With AI, anyone can become an independent developer. Having personally experienced the power of AI programming, I created this open source project **Vibe Coding Guide** to help everyone with ideas create their own products using AI, ensuring technology is no longer a barrier to realizing creativity.
 
+<div align="center">
 <img src="my-experience/6apps.jpeg" alt="myapps" width="70%">
+</div>
 
 ---
 

@@ -8,9 +8,11 @@
 
 ## Introduction
 
-With absolutely no programming background, I successfully developed and launched 6 iOS applications on the App Store in just 60 days using ChatGPT and Xcode. This article shares my detailed development process, challenges encountered, and lessons learned, hoping to provide valuable insights for other non-technical founders and creators.
+As a product manager with zero coding background, I successfully developed 6 iOS applications using ChatGPT and Xcode over the past three months and got them all live on the App Store. This experience made me deeply appreciate the power of AI programming and validated the concept that "anyone can become an independent developer."
 
+<div align="center">
 <img src="./6apps.jpeg" alt="My 6 Apps" width="70%">
+</div>
 
 ## Development Environment and Tools
 

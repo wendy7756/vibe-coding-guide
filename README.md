@@ -10,7 +10,9 @@
 
 直到现在我仍然不懂编程，但 AI 帮我写了所有代码。借助AI，人人都可以成为独立开发者。正因为亲身体验了 AI 编程的强大力量，我创建了这个开源项目 **Vibe Coding Guide**，希望每个有想法的人都能借助 AI 创造属于自己的产品，让技术不再是创意实现的门槛。
 
+<div align="center">
 <img src="my-experience/6apps.jpeg" alt="myapps" width="70%">
+</div>
 
 ---
 
