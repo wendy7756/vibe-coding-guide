@@ -1,6 +1,6 @@
 <div align="center">
 
-# 48小时开发2个网站的极速之旅
+# 我的网站开发之旅
 
 中文 | <a href="./web-experience-en.md">English</a>
 
