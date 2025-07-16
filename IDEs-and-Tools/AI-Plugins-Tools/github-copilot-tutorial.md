@@ -1,6 +1,10 @@
+<div align="center">
+
 # GitHub Copilot 使用教程 (2025年最新版)
 
-<div align="center">中文 | [English](github-copilot-tutorial-en.md)</div>
+中文 | <a href="github-copilot-tutorial-en.md">English</a>
+
+</div>
 
 ## 目录
 - [简介](#简介)

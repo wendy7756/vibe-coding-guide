@@ -1,6 +1,10 @@
+<div align="center">
+
 # PyCharm + AI Integration Guide
 
-<div align="center">English | [中文](./pycharm-ai-guide.md)</div>
+<a href="./pycharm-ai-guide.md">中文</a> | English
+
+</div>
 
 ## Overview
 

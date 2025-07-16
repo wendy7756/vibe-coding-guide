@@ -1,6 +1,10 @@
+<div align="center">
+
 # Claude Sonnet 4 完整指南
 
-<div align="center">中文 | [English](./claude-sonnet-4-en.md)</div>
+中文 | <a href="./claude-sonnet-4-en.md">English</a>
+
+</div>
 
 ## 目录
 1. [模型概览](#模型概览)

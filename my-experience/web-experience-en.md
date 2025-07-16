@@ -1,6 +1,10 @@
-# My Web Development Journey: 2 Websites in 48 Hours with $0 Budget
+<div align="center">
 
-<div align="center">English | [中文](./web-experience.md)</div>
+# My Lightning-Fast 48-Hour Journey: Building 2 Websites
+
+<a href="./web-experience.md">中文</a> | English
+
+</div>
 
 ## Introduction
 

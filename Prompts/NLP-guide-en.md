@@ -1,6 +1,10 @@
-# Complete Guide to Natural Language Programming
+<div align="center">
 
-<div align="center">English | [中文](./NLP-guide.md)</div>
+# Natural Language Programming Guide
+
+<a href="./NLP-guide.md">中文</a> | English
+
+</div>
 
 ## Overview
 

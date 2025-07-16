@@ -1,6 +1,10 @@
+<div align="center">
+
 # Gemini 2.5 Pro Complete Guide
 
-<div align="center">English | [中文](./gemini-2.5-pro.md)</div>
+<a href="./gemini-2.5-pro.md">中文</a> | English
+
+</div>
 
 ## Table of Contents
 1. [Model Overview](#model-overview)

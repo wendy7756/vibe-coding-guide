@@ -1,6 +1,10 @@
-# 我的iOS App开发之旅：60天，6个App，零代码基础
+<div align="center">
 
-<div align="center">中文 | [English](./ios-app-experience-en.md)</div>
+# 60天开发6个iOS APP的奇迹之旅
+
+中文 | <a href="./ios-app-experience-en.md">English</a>
+
+</div>
 
 ## 前言
 

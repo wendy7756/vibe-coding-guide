@@ -1,6 +1,10 @@
+<div align="center">
+
 # Gemini 2.5 Pro 完整指南
 
-<div align="center">中文 | [English](./gemini-2.5-pro-en.md)</div>
+中文 | <a href="./gemini-2.5-pro-en.md">English</a>
+
+</div>
 
 ## 目录
 1. [模型概览](#模型概览)

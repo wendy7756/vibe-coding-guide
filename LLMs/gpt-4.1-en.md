@@ -1,6 +1,10 @@
+<div align="center">
+
 # GPT-4.1 Complete Guide
 
-<div align="center">English | [中文](./gpt-4.1.md)</div>
+<a href="./gpt-4.1.md">中文</a> | English
+
+</div>
 
 ## Table of Contents
 1. [Model Overview](#model-overview)

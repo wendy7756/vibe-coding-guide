@@ -1,6 +1,10 @@
-# Claude 3.5 Sonnet 完整指南
+<div align="center">
 
-<div align="center">中文 | [English](./claude-3.5-sonnet-en.md)</div>
+# Claude 3.5 Sonnet 详细指南
+
+中文 | <a href="./claude-3.5-sonnet-en.md">English</a>
+
+</div>
 
 ## 目录
 1. [模型概览](#模型概览)
@@ -396,4 +400,4 @@ print(f"总成本: ${total_cost:.6f}")
 
 *最后更新: 2024年12月*
 
-[返回顶部](#claude-35-sonnet-完整指南) | [English](./claude-3.5-sonnet-en.md) 
+[返回顶部](#claude-35-sonnet-详细指南) | [English](./claude-3.5-sonnet-en.md) 

@@ -1,6 +1,10 @@
+<div align="center">
+
 # GPT-4.1 完整指南
 
-<div align="center">中文 | [English](./gpt-4.1-en.md)</div>
+中文 | <a href="./gpt-4.1-en.md">English</a>
+
+</div>
 
 ## 目录
 1. [模型概览](#模型概览)

@@ -1,6 +1,10 @@
+<div align="center">
+
 # IntelliJ IDEA + AI Integration Guide
 
-<div align="center">English | [中文](./intellij-ai-guide.md)</div>
+<a href="./intellij-ai-guide.md">中文</a> | English
+
+</div>
 
 ## Overview
 

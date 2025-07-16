@@ -1,6 +1,10 @@
+<div align="center">
+
 # Claude Code Tutorial (2025 Latest Version)
 
-<div align="center">English | [中文](claude-code-tutorial.md)</div>
+<a href="claude-code-tutorial.md">中文</a> | English
+
+</div>
 
 ## Table of Contents
 - [Introduction](#introduction)

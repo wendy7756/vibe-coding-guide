@@ -1,6 +1,10 @@
+<div align="center">
+
 # Cursor IDE Tutorial (2025 Latest Version)
 
-<div align="center">English | [中文](cursor-tutorial.md)</div>
+<a href="cursor-tutorial.md">中文</a> | English
+
+</div>
 
 ## Table of Contents
 - [Introduction](#introduction)

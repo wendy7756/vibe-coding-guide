@@ -1,6 +1,10 @@
-# My iOS App Development Journey: 6 Apps in 60 Days with Zero Coding Background
+<div align="center">
 
-<div align="center">English | [中文](./ios-app-experience.md)</div>
+# My Miraculous 60-Day Journey: Building 6 iOS Apps
+
+<a href="./ios-app-experience.md">中文</a> | English
+
+</div>
 
 ## Introduction
 

@@ -1,6 +1,10 @@
-# Traditional IDEs + AI 完整指南
+<div align="center">
 
-<div align="center">中文 | [English](./abstract_EN.md)</div>
+# 传统IDE集成AI指南
+
+中文 | <a href="./abstract_EN.md">English</a>
+
+</div>
 
 本目录包含5个主流IDE结合AI工具的详细使用指南，每个IDE都有中英文版本可供选择。
 
@@ -155,4 +159,4 @@ A: 最佳实践：
 
 *最后更新: 2025年1月*
 
-[返回顶部](#traditional-ides--ai-完整指南) | [English](./README_EN.md) 
+[返回顶部](#传统ide集成ai指南) | [English](./README_EN.md) 

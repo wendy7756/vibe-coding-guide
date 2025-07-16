@@ -1,6 +1,10 @@
+<div align="center">
+
 # GitHub Copilot Tutorial (2025 Latest Version)
 
-<div align="center">English | [中文](github-copilot-tutorial.md)</div>
+<a href="github-copilot-tutorial.md">中文</a> | English
+
+</div>
 
 ## Table of Contents
 - [Introduction](#introduction)

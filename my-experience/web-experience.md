@@ -1,6 +1,10 @@
-# 我的Web开发之旅：48小时，2个网站，0成本
+<div align="center">
 
-<div align="center">中文 | [English](./web-experience-en.md)</div>
+# 48小时开发2个网站的极速之旅
+
+中文 | <a href="./web-experience-en.md">English</a>
+
+</div>
 
 ## 前言
 

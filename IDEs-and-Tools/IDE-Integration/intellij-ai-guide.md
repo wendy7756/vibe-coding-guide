@@ -1,6 +1,10 @@
+<div align="center">
+
 # IntelliJ IDEA + AI 完整指南
 
-<div align="center">中文 | [English](./intellij-ai-guide-en.md)</div>
+中文 | <a href="./intellij-ai-guide-en.md">English</a>
+
+</div>
 
 ## 目录
 1. [概述](#概述)

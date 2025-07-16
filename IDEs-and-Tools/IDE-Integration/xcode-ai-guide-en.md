@@ -1,6 +1,10 @@
+<div align="center">
+
 # Xcode + AI Integration Guide
 
-<div align="center">English | [中文](./xcode-ai-guide.md)</div>
+<a href="./xcode-ai-guide.md">中文</a> | English
+
+</div>
 
 ## Overview
 

@@ -1,6 +1,10 @@
-# Traditional IDEs + AI Complete Guide
+<div align="center">
 
-<div align="center">English | [中文](./abstract.md)</div>
+# Traditional IDEs + AI Integration Guide
+
+<a href="./abstract.md">中文</a> | English
+
+</div>
 
 This directory contains detailed guides for using 5 mainstream IDEs with AI tools. Each IDE has both Chinese and English versions available.
 
