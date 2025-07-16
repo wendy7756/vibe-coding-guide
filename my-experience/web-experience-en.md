@@ -4,9 +4,8 @@ English | [中文](./web-experience.md)
 
 ## Introduction
 
-With absolutely no programming background, I successfully developed and launched two complete website projects in 48 hours with zero cost using Cursor. From pure frontend pages to complex full-stack applications, the combination of Cursor + Claude-3.5-Sonnet completely transformed my understanding of web development. This article shares my detailed development experience, technical choices, and practical insights.
+With absolutely no programming background, I successfully developed and launched two complete website projects using Cursor. From pure frontend pages to complex full-stack applications, the combination of Cursor + Claude-4-Sonnet completely transformed my understanding of web development. This article shares my detailed development experience, technical choices, and practical insights.
 
-![My Website Projects](./website01.png)
 
 ## My Two Website Projects
 
@@ -16,6 +15,8 @@ With absolutely no programming background, I successfully developed and launched
 - **Website**: [localtravelguide.fun](https://localtravelguide.fun)
 - **Development Time**: 24 hours
 - **Tech Stack**: Astro + Markdown + Vercel
+
+![Travelguide Interface](./website01.png)
 
 ### Project 2: FollowNet
 - **Type**: Social media competitor analysis tool
@@ -306,36 +307,19 @@ Please help fix responsive layout issues
 ### Development Tools
 - **Cursor**: Primary development environment
 - **Chrome DevTools**: Debugging tools
-- **Figma**: Design drafts and prototypes
 
-### Content and Materials
-- **Unsplash**: High-quality free images
-- **Icons8**: Icon resources
-- **Google Fonts**: Web fonts
 
 ### Deployment and Operations
 - **Vercel**: Website deployment
 - **Cloudflare**: CDN and security
-- **Google Analytics**: Website analytics
 
-## Future Plans
-
-Through developing these two projects, I deeply understand the power of modern web development tools. The combination of Cursor + AI enables people without programming backgrounds to quickly build professional-level websites.
-
-**Next Steps:**
-- Explore more complex full-stack application development
-- Learn AI integration and API development
-- Try mobile web applications
-- Share more practical development techniques
-
-## Conclusion
-
-From idea to launch, 48 hours, 2 websites, $0 cost — this would be nearly impossible with traditional development approaches. But the combination of Cursor + Claude-3.5-Sonnet makes it reality.
-
-What matters isn't whether you can program, but whether you have good ideas and problem-solving abilities. AI tools have opened the doors to a new world where anyone can become a web developer.
-
-If you have website ideas you want to implement, don't hesitate — open Cursor and start your first line of code!
 
 ---
 
-*Hope this sharing helps friends who want to start web development. Remember: In the AI era, creativity is more important than technology!* 
+Through developing these two projects, I deeply understand the power of modern web development tools. The combination of Cursor + AI enables people without programming backgrounds to quickly build professional-level websites.
+
+
+What matters isn't whether you can program, but whether you have good ideas and problem-solving abilities. AI tools can help anyone become a web developer.
+
+If you have website ideas you want to implement, don't hesitate — open Cursor and start your first line of code!
+

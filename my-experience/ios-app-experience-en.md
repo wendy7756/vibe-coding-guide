@@ -4,9 +4,9 @@ English | [中文](./ios-app-experience.md)
 
 ## Introduction
 
-As a product manager with absolutely no programming background, I successfully developed and launched 6 iOS applications on the App Store in just 60 days using ChatGPT and Xcode. This article shares my detailed development process, challenges encountered, and lessons learned, hoping to provide valuable insights for other non-technical founders and creators.
+With absolutely no programming background, I successfully developed and launched 6 iOS applications on the App Store in just 60 days using ChatGPT and Xcode. This article shares my detailed development process, challenges encountered, and lessons learned, hoping to provide valuable insights for other non-technical founders and creators.
 
-![My 6 Apps](./6apps.png)
+![My 6 Apps](./6apps.jpeg)
 
 ## Development Environment and Tools
 
@@ -16,7 +16,6 @@ As a product manager with absolutely no programming background, I successfully d
 - **Sketch**: Prototyping for complex apps
 - **Screenshot tools**: Quick error feedback and communication
 
-### Why This Combination?
 The choice of ChatGPT + Xcode was straightforward: ChatGPT understands natural language requirements and generates Swift code, while Xcode is the official iOS development environment. Together, they enable rapid transformation from ideas to functional applications.
 
 ## Detailed Development Workflow
@@ -169,20 +168,7 @@ ChatGPT guided me on:
 2. **Design Aesthetics**: Referenced excellent apps and asked ChatGPT to emulate styles
 3. **User Experience Issues**: Multiple iterations, solving one specific problem at a time
 
-## Results and Metrics
 
-### 6 Apps Overview
-- **Development Cycle**: Average 7-10 days per app
-- **Code Volume**: 1,000-3,000 lines of Swift code per app
-- **Success Rate**: 83% first-submission App Store approval rate
-- **User Feedback**: Average rating of 4.2/5 stars
-
-### Skills Acquired
-While I still don't know traditional programming, I learned:
-- How to collaborate effectively with AI
-- Product thinking and user experience design
-- Basic iOS platform guidelines and constraints
-- How to rapidly validate and iterate ideas
 
 ## Advice for Other Non-Technical Developers
 
@@ -202,23 +188,24 @@ Bugs are normal and each error is a learning opportunity. Screenshot + ChatGPT i
 ### 5. Maintain an Iterative Mindset
 Don't expect to create perfect apps in one attempt. Launch quickly, collect feedback, improve continuously.
 
-## Looking Forward
+
+
 
 Through this 60-day experience, I deeply understand the power of AI programming. It doesn't just enable non-technical people to develop applications — it fundamentally changes the barriers and methods of software development.
+
+While I still don't know traditional programming, I learned:
+- How to collaborate effectively with AI
+- Product thinking and user experience design
+- Basic iOS platform guidelines and constraints
+- How to rapidly validate and iterate ideas
 
 My future plans include:
 - Developing more complex apps to explore AI programming boundaries
 - Sharing more practical development tips and experiences
 - Helping more people realize their creative ideas through AI
 
-## Conclusion
 
-From zero to 6 apps, this journey proves one point: In the AI era, ideas matter more than technical skills. If you have good creative concepts, don't abandon them because you can't code. ChatGPT and other AI tools have opened a new door for us.
-
-Remember: **Most people build one app a year. With AI, you can launch 6 apps in 60 days.**
+In the AI era, ideas matter more than technical skills. If you have good creative concepts, don't abandon them because you can't code. ChatGPT and other AI tools have opened a new door for us.
 
 The key is finding a workflow that suits you, maintaining a continuous learning mindset, and believing that AI can help you realize any idea.
 
----
-
-*If this article helps you, please share it with other friends who have creative ideas. Let's embrace the new era of AI programming together!* 

@@ -4,9 +4,8 @@
 
 ## 前言
 
-作为一个没有编程基础的人，我使用 Cursor 在48小时内以0成本成功开发并上线了两个完整的网站项目。从纯前端页面到复杂的全栈应用，Cursor + Claude-3.5-Sonnet 的组合彻底改变了我对Web开发的认知。这篇文章将详细分享我的开发经历、技术选择和实用经验。
+作为一个没有编程基础的人，我使用 Cursor 成功开发并上线了两个完整的网站项目。从纯前端页面到复杂的全栈应用，Cursor + Claude-4-Sonnet 的组合彻底改变了我对Web开发的认知。这篇文章将详细分享我的开发经历、技术选择和实用经验。
 
-![我的网站项目](./website01.png)
 
 ## 我的两个网站项目
 
@@ -17,11 +16,13 @@
 - **开发时间**：24小时
 - **技术栈**：Astro + Markdown + Vercel
 
+![globaltravel页面](./website01.png)
+
 ### 项目二：FollowNet
 - **类型**：社交媒体竞争对手分析工具
 - **GitHub**：[https://github.com/wendy7756/FollowNet](https://github.com/wendy7756/FollowNet)
 - **网址**：[follownet.online](https://follownet.online)
-- **开发时间**：24小时
+- **开发时间**：48小时
 - **技术栈**：Next.js + Python + Vercel + 后端部署
 
 ![FollowNet界面](./website02.png)
@@ -122,14 +123,14 @@ const DestinationCard = ({ city, image, description }) => {
 
 ```markdown
 ---
-title: "东京旅游攻略"
+title: "北京旅游攻略"
 date: "2024-01-15"
-image: "/images/tokyo.jpg"
+image: "/images/Beijing.jpg"
 ---
 
-# 东京完全指南
+# 北京完全指南
 
-东京是一个传统与现代完美融合的城市...
+北京是一个传统与现代完美融合的城市...
 ```
 
 **3. 后端开发（FollowNet项目）**
@@ -306,36 +307,17 @@ git push origin main
 ### 开发工具
 - **Cursor**：主要开发环境
 - **Chrome DevTools**：调试工具
-- **Figma**：设计稿和原型
 
-### 内容和素材
-- **Unsplash**：高质量免费图片
-- **Icons8**：图标资源
-- **Google Fonts**：网页字体
 
 ### 部署和运维
 - **Vercel**：网站部署
 - **Cloudflare**：CDN和安全
-- **Google Analytics**：网站分析
-
-## 未来规划
-
-通过这两个项目的开发经历，我深刻体会到现代Web开发工具的强大。Cursor + AI的组合让没有编程基础的人也能快速构建专业级别的网站。
-
-**下一步计划：**
-- 探索更复杂的全栈应用开发
-- 学习AI集成和API开发
-- 尝试移动端Web应用
-- 分享更多实用的开发技巧
-
-## 结语
-
-从想法到上线，48小时，2个网站，0成本——这在传统开发方式下几乎不可能实现。但Cursor + Claude-3.5-Sonnet的组合让这一切变成现实。
-
-重要的不是你会不会编程，而是你有没有好的想法和解决问题的能力。AI工具已经为我们打开了新世界的大门，任何人都可以成为Web开发者。
-
-如果你有想要实现的网站想法，不要犹豫，打开Cursor，开始你的第一行代码吧！
 
 ---
 
-*希望这篇分享对想要开始Web开发的朋友有所帮助。记住：在AI时代，创意比技术更重要！* 
+
+通过这两个项目的开发经历，我深刻体会到现代Web开发工具的强大。Cursor + AI的组合让没有编程基础的人也能快速构建专业级别的网站。
+
+重要的不是你会不会编程，而是你有没有好的想法和解决问题的能力。借助AI工具任何人都可以成为Web开发者。
+
+如果你有想要实现的网站想法，不要犹豫，打开Cursor，开始你的第一行代码吧！
