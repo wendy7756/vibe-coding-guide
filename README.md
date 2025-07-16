@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vibe Coding Guide | 氛围编程指南
+# Vibe Coding 指南
 
 中文 | <a href="README_EN.md">English</a>
 
