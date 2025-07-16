@@ -6,7 +6,7 @@
 
 </div>
 
-As a product manager with zero coding background, I successfully developed **6 iOS apps** and got them live on the App Store in the past three months with the help of ChatGPT and Cursor, and also launched **2 complete website projects**. Both website codes are open sourced: Global Travel Guide platform [Global Travel Guide](https://github.com/wendy7756/globaltravelguide), and target audience analysis tool [FollowNet](https://github.com/wendy7756/FollowNet).
+With zero coding background, I successfully developed **6 iOS apps** and got them live on the App Store in the past three months with the help of ChatGPT and Cursor, and also launched **2 complete website projects**. Both website codes are open sourced: Global Travel Guide platform [Global Travel Guide](https://github.com/wendy7756/globaltravelguide), and target audience analysis tool [FollowNet](https://github.com/wendy7756/FollowNet).
 
 I still don't understand programming today, but AI wrote all the code for me. With AI, anyone can become an independent developer. Having personally experienced the power of AI programming, I created this open source project **Vibe Coding Guide** to help everyone with ideas create their own products using AI, ensuring technology is no longer a barrier to realizing creativity.
 
@@ -188,85 +188,6 @@ Vibe Coding relies on advanced large language models:
 - **Notion AI**: Documentation and project management supporting AI collaboration
 - **GitHub Issues AI**: Automatic analysis and handling of GitHub Issues
 
-## Project Types and Examples
-
-### Rapid Prototyping
-
-#### 1. Flight Simulator Game Built in 3 Hours
-- **Developer**: Pieter Levels (Independent developer)
-- **Tools**: Cursor IDE + Grok-3 AI
-- **Results**: 320,000 players in 17 days, $87,000 monthly revenue
-- **Feature**: 3D multiplayer game built entirely through natural language descriptions
-- **Case**: [fly.pieter.com](https://fly.pieter.com)
-
-#### 2. LunchBox Buddy App
-- **Developer**: Kevin Roose (Journalist, non-programmer)
-- **Method**: Pure conversational development, no manual coding
-- **Function**: Personalized lunch recommendation app
-- **Significance**: Proves non-technical backgrounds can develop applications
-
-### Startup Projects
-
-#### 1. AI-Driven SaaS Applications
-- **Statistics**: 25% of Y Combinator Winter 2025 batch startups
-- **Feature**: 95% AI-generated codebases
-- **Advantage**: Small teams (<10 people) achieving million-dollar revenue
-- **Cases**: Multiple Y Combinator incubated projects
-
-#### 2. Enterprise Application Development
-- **ANZ Bank**: 7% of code in the past 6 months from AI pair programming
-- **Citi Bank**: 40,000 developers using Copilot comprehensively
-- **Effectiveness**: Significantly improved development efficiency and code quality
-
-### Personal Creative Projects
-
-#### 1. Personal Website Generator
-- **Description**: "Create a modern personal portfolio website"
-- **Generated**: Complete React + Tailwind CSS application
-- **Time**: Less than 30 minutes from description to deployment
-- **Features**: Responsive design, dark mode, animations
-
-#### 2. Data Dashboard
-- **Requirement**: "Create a real-time data dashboard for the sales team"
-- **Implementation**: Next.js + Chart.js + API integration
-- **Functions**: Real-time data updates, interactive charts, export functionality
-
-### Learning and Educational Projects
-
-#### 1. Programming Learning Assistant
-- **Function**: Learn programming concepts through conversation
-- **Implementation**: Natural language explanation of code logic
-- **Features**: Personalized learning paths, real-time feedback
-
-#### 2. Code Review Tool
-- **Purpose**: Automatically review code quality and security
-- **Capabilities**: Identify potential bugs, provide improvement suggestions
-- **Integration**: Seamless integration with GitHub/GitLab platforms
-
-### Creative and Art Projects
-
-#### 1. Generative Art Project
-- **Description**: "Create an interactive particle system artwork"
-- **Technology**: P5.js + WebGL
-- **Features**: Mouse interaction, real-time animation, audio response
-
-#### 2. Music Visualizer
-- **Requirement**: "Generate visual effects based on music beats"
-- **Implementation**: Web Audio API + Canvas animation
-- **Functions**: Spectrum analysis, dynamic colors, beat detection
-
-### Enterprise Solutions
-
-#### 1. Customer Service Chatbot
-- **Scenario**: Create intelligent customer service for e-commerce platform
-- **Capabilities**: Natural language understanding, order queries, problem solving
-- **Integration**: Seamless connection with existing CRM systems
-
-#### 2. Content Management System
-- **Requirement**: "Build a multilingual content management platform"
-- **Functions**: Article editing, user management, permission control
-- **Features**: AI-based content recommendation and automatic translation
-
 ## Practical Tutorials
 
 ### Beginner Tutorial: Your First Vibe Coding Project
@@ -397,48 +318,6 @@ including article list, detail pages, search functionality, and Markdown renderi
 - **Small Steps**: Only request implementation of one small feature at a time
 - **Gradual Improvement**: Propose improvements based on previous results
 - **Maintain Context**: Reference previous code in conversations
-
-### Code Quality Assurance
-
-#### 1. Code Review Points
-- **Functional Correctness**: Verify code implements expected functionality
-- **Performance Optimization**: Check for potential performance bottlenecks
-- **Security**: Review for potential security vulnerabilities
-- **Maintainability**: Assess code readability and extensibility
-
-#### 2. Testing Strategy
-- **Unit Testing**: Request AI to generate corresponding test code
-- **Integration Testing**: Verify collaboration between different modules
-- **User Testing**: Test actual usage scenarios
-
-### Team Collaboration Standards
-
-#### 1. Prompt Standardization
-Establish unified prompt templates for the team:
-```
-Project Background: [Project Overview]
-Technology Stack: [Technologies Used]
-Functional Requirements: [Specific Feature List]
-Design Requirements: [UI/UX Requirements]
-Performance Requirements: [Performance Metrics]
-```
-
-#### 2. Code Management
-- **Version Control**: Use Git to manage AI-generated code
-- **Branch Strategy**: Create branches for different AI experiments
-- **Code Review**: Human review of all AI-generated code
-
-### Security and Privacy
-
-#### 1. Data Protection
-- **Sensitive Information**: Avoid including sensitive data in prompts
-- **Code Review**: Check generated code for information leakage
-- **Local Deployment**: Consider using locally deployed AI models
-
-#### 2. Intellectual Property
-- **License Compliance**: Ensure used code complies with license requirements
-- **Originality**: Verify originality of generated code
-- **Attribution**: Properly attribute AI-generated code segments
 
 ### Common Issues and Solutions
 
@@ -584,7 +463,7 @@ Performance Requirements: [Performance Metrics]
 
 ## Contributing
 
-We welcome contributions to this guide! Please follow these steps:
+Welcome to contributions to this guide! Please follow these steps:
 
 1. Fork this repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
