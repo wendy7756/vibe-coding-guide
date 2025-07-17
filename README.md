@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vibe Coding 指南
+# 自然语言编程指南
 
 中文 | <a href="README_EN.md">English</a>
 
