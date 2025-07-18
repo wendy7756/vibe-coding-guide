@@ -16,17 +16,12 @@ I still don't understand programming today, but AI wrote all the code for me. Wi
 
 ---
 
-## Abstract
-
-Vibe Coding is a revolutionary programming paradigm where AI takes the lead in code generation while developers guide the entire process in a "flow state"-like manner. Coined by OpenAI co-founder Andrej Karpathy in 2025, it emphasizes developers describing requirements through natural language (text or voice), while AI generates complete, runnable code. Developers only need to iterate, provide feedback, and test to complete project development.
-
 ## Table of Contents
 
 - [What is Vibe Coding](#what-is-vibe-coding)
 - [Core Workflow](#core-workflow)
 - [Technical Principles and Implementation](#technical-principles-and-implementation)
 - [Main Tools and Platforms](#main-tools-and-platforms)
-- [Project Types and Examples](#project-types-and-examples)
 - [Practical Tutorials](#practical-tutorials)
 - [Best Practices](#best-practices)
 - [Community and Resources](#community-and-resources)
@@ -34,7 +29,7 @@ Vibe Coding is a revolutionary programming paradigm where AI takes the lead in c
 
 ## What is Vibe Coding
 
-Vibe Coding is a revolutionary programming approach that transforms traditional hand-coding into collaborative dialogue with AI. Developers no longer need to write code line by line; instead, they describe desired functionality in natural language, and AI generates complete, runnable code.
+Vibe Coding is a revolutionary programming approach introduced by OpenAI co-founder Andrej Karpathy in 2025. It reimagines software development as a collaborative dialogue between humans and AI. Instead of manually writing code line by line, developers describe their goals and requirements using natural language—via text or voice—and the AI generates complete, executable code. Developers only need to iterate, provide feedback, and run tests to complete the development process.
 
 ### Core Definition
 
